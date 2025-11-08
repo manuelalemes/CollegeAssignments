@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                     /* Usa recursos modernos do JS */
+    "module": "commonjs",                   /* Usa padrão de módulos do Node.js */
+    "moduleResolution": "node",             /* Faz o TypeScript procurar módulos no node_modules */
+    "lib": ["ES2020"],                      /* Inclui definições modernas de JS */
+    "esModuleInterop": true,                /* Permite importar pacotes CommonJS com sintaxe moderna */
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
